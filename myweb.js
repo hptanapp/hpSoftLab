@@ -1,4 +1,4 @@
-document.getElementById("demo").innerHTML = "Hellso JavaScript!";
+document.getElementById("demo").innerHTML = "Hell of a LIKE!";
 
 /* When the user clicks on the button, 
 toggle between hiding and showing the dropdown content */
