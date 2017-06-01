@@ -1,4 +1,6 @@
 # hpSoftLab
-hpSoftLab
-
-* This is a fucking details
+<html>
+  <head>
+    <META http-equiv="refresh" content="0;URL=/site/index.html">
+  </head>
+</html>
